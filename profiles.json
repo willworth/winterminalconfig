@@ -10,7 +10,8 @@
   "profiles": {
     "defaults": {
       // Put settings here that you want to apply to all profiles
-      "colorScheme": "Dracula"
+      "colorScheme": "NightOwl"
+      // "colorScheme": "Dracula"
     },
     "list": [
       {
@@ -36,11 +37,11 @@
       {
         "name": "Git Bash",
         "acrylicOpacity": 0.5,
-        "background": "#0f0f0f",
+        // "background": "#0f0f0f",
         "closeOnExit": true,
-        "colorScheme": "Dracula",
+        // "colorScheme": "Dracula",
         "commandline": "C:\\Users\\will.worth\\AppData\\Local\\Programs\\Git\\bin\\bash.exe",
-        "cursorColor": "#FFFFFF",
+        // "cursorColor": "#FFFFFF",
         "cursorShape": "bar",
         "fontFace": "Consolas",
         "fontSize": 10,
@@ -78,6 +79,28 @@
       "red": "#FF5555",
       "white": "#F8F8F2",
       "yellow": "#F1FA8C"
+    },
+
+    {
+      "name": "NightOwl",
+      "background": "#011627",
+      "black": "#011627",
+      "blue": "#82AAFF",
+      "brightBlack": "#575656",
+      "brightBlue": "#82AAFF",
+      "brightCyan": "#7FDBCA",
+      "brightGreen": "#22DA6E",
+      "brightPurple": "#C792EA",
+      "brightRed": "#EF5350",
+      "brightWhite": "#FFFFFF",
+      "brightYellow": "#FFEB95",
+      "cyan": "#21C7A8",
+      "foreground": "#D6DEEB",
+      "green": "#22DA6E",
+      "purple": "#C792EA",
+      "red": "#EF5350",
+      "white": "#FFFFFF",
+      "yellow": "#ADDB67"
     }
   ],
 
